@@ -1,0 +1,8 @@
+main ()
+{
+cout<<"Hola mundo";
+cout<<"REPOSITORIOS GIT";
+cout<<"Segundo TIC";
+
+return 0;
+}
